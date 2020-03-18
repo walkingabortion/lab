@@ -1,0 +1,4 @@
+class node
+{
+	int x = 10;
+}
